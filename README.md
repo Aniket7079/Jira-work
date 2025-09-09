@@ -1,2 +1,1 @@
-# Jira-work
-Iy's used for only mention the Jira Task, story, epic etc.
+Q). Discribe in details of RAG for Large Language Model?
