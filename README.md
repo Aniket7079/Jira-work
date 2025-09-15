@@ -1,1 +1,1 @@
-Q). Discribe in details of RAG for Large Language Model?
+Q). Give me the AI interview questions only as a freshar candidates?
